@@ -1,0 +1,314 @@
+[
+  {
+    "id":"202011",
+    "category":["pizza"],
+    "title":"Пицца 'Чикен Моцарелла' - тесто, фарш куриный, фирменный соус, помидоры, лук красный, огурец солёный, сыр моцарелла",
+    "imgMin":"db/img-mini/pizza/piz-ChickenMozzarella.jpg",
+    "imgCart":"db/img-card/pizza/piz-ChickenMozzarella.jpg",
+    "price":460
+  },
+  {
+    "id":"202012",
+    "category":["pizza"],
+    "title":"Пицца 'Домашняя' - майонез, сыр, ветчина, грибы, копченая колбаса, помидоры, лук",
+    "imgMin":"db/img-mini/pizza/piz-Home.jpg",
+    "imgCart":"db/img-card/pizza/piz-Home.jpg",
+    "price":430
+  },
+  {
+    "id":"202013",
+    "category":["pizza"],
+    "title":"Пицца 'Шашлычная' - соус, помидоры свежие, огурец соленый, свинина, сыр, лук маринованный",
+    "imgMin":"db/img-mini/pizza/piz-KebabhHouse.jpg",
+    "imgCart":"db/img-card/pizza/piz-KebabhHouse.jpg",
+    "price":530
+  },
+  {
+    "id":"202014",
+    "category":["pizza"],
+    "title":"Пицца 'Black' - соус фирменный, куриное филе, колбаса, охотничьи колбаски, перец болгарский, лук репчатый, маслины, сыр",
+    "imgMin":"db/img-mini/pizza/piz-Black.jpg",
+    "imgCart":"db/img-card/pizza/piz-Black.jpg",
+    "price":520
+  },
+  {
+    "id":"202015",
+    "category":["pizza"],
+    "title":"Пицца 'Морепродукты с устричным соусом' - пикантный устричный соус, кальмары, креветки, мидии, осьминоги, помидоры, маслины, сок лимона, сыр",
+    "imgMin":"db/img-mini/pizza/piz-Seafood.jpg",
+    "imgCart":"db/img-card/pizza/piz-Seafood.jpg",
+    "price":630
+  },
+  {
+     "id":"202016",
+     "category":["pizza"],
+     "title":"Пицца 'Цезарь' - соус 'Цезарь', куриное филе, помидоры, салат Айсберг, сыр 'Пармезан'",
+     "imgMin":"db/img-mini/pizza/piz-Caesar.jpg",
+     "imgCart":"db/img-card/pizza/piz-Caesar.jpg",
+     "price":510
+    },
+    {
+      "id":"202017",
+      "category":["pizza"],
+      "title":"Пицца 'Охотничья' - соус томатный, сыр, колбаски «Охотничьи», болгарский перец, маслины, свежие шампиньоны, лук",
+      "imgMin":"db/img-mini/pizza/piz-Hunting.jpg",
+      "imgCart":"db/img-card/pizza/piz-Hunting.jpg",
+      "price":460
+    },
+    {
+      "id":"202018",
+      "category":["pizza"],
+      "title":"Пицца 'Карбонара' - соус, сыр, яйцо, бекон, помидоры, оливки, лук",
+      "imgMin":"db/img-mini/pizza/piz-Carbonara.jpg",
+      "imgCart":"db/img-card/pizza/piz-Carbonara.jpg",
+      "price":460
+    },
+    {
+      "id":"202021",
+      "category":["burgers"],
+      "title":"Гамбургер - Рубленый бифштекс из натуральной цельной говядины на карамелизованной булочке, заправленной горчицей, кетчупом, луком и кусочком маринованного огурчика",
+      "imgMin":"db/img-mini/burgers/Gamburger.png",
+      "imgCart":"db/img-card/burgers/Gamburger.png",
+      "price":50
+      },
+      {
+        "id":"202022",
+        "category":["burgers"],
+        "title":"Чизбургер с беконом - Чизбургер с беконом – это рубленый бифштекс из натуральной цельной говядины с ломтиком сыра «Чеддер» и двумя ломтиками бекона на карамелизованной булочке, заправленной горчицей, кетчупом, луком и кусочком маринованного огурчика.",
+        "imgMin":"db/img-mini/burgers/Cheeseburger.png",
+        "imgCart":"db/img-card/burgers/Cheeseburger.png",
+        "price":75
+      },
+      {
+        "id":"202023",
+        "category":["burgers"],
+        "title":"Биг Тейсти - Это сандвич с большим, рубленым бифштексом из 100% говядины на большой булочке с кунжутом. Особенный вкус сандвичу придают три кусочка сыра «эмменталь», два ломтика помидора, свежий салат, лук и пикантный соус «Гриль».",
+        "imgMin":"db/img-mini/burgers/BigTeysti.png",
+        "imgCart":"db/img-card/burgers/BigTeysti.png",
+        "price":249
+      },
+      {
+        "id":"202024",
+        "category":["burgers"],
+        "title":"Биг Мак - Два бифштекса из 100% говядины на специальной булочке «Биг Мак», заправленной луком, двумя кусочками маринованных огурчиков, ломтиком сыра «Чеддер», салатом, и специальным соусом «Биг Мак»",
+        "imgMin":"db/img-mini/burgers/BigMak.png",
+        "imgCart":"db/img-card/burgers/BigMak.png",
+        "price":135
+      },
+      {
+        "id":"202025",
+        "category":["burgers"],
+        "title":"Двойной Биг Мак - Большой бургер теперь с четырьмя рублеными бифштексами из натуральной цельной говядины на специальной булочке «Биг Мак»®, заправленной луком, кусочками маринованных огурчиков, плавленым сыром «Чеддер», свежим салатом и специальным соусом «Биг Мак».",
+        "imgMin":"db/img-mini/burgers/BigMacDouble.png",
+        "imgCart":"db/img-card/burgers/BigMacDouble.png",
+        "price":199
+      },
+      {
+        "id":"202026",
+        "category":["burgers"],
+        "title":"Роял - Бифштекс из сочной рубленной говядины, приготовленный на гриле, с двумя кусочками сыра «Чеддер» на карамелизованной булочке с кунжутом, заправленной горчицей, кетчупом, свежим луком и маринованными огурчиками.",
+        "imgMin":"db/img-mini/burgers/Royal.png",
+        "imgCart":"db/img-card/burgers/Royal.png",
+        "price":139
+      },
+      {
+        "id":"202027",
+        "category":["burgers"],
+        "title":"Чикенбургер - Обжаренная куриная котлета, панированная в сухарях, на карамелизованной булочке, заправленной свежим салатом и специальным соусом «Мак Чикен»®.",
+        "imgMin":"db/img-mini/burgers/Chickenburger.png",
+        "imgCart":"db/img-card/burgers/Chickenburger.png",
+        "price":52
+      },
+      {
+        "id":"202028",
+        "category":["burgers"],
+        "title":"Чикен Премьер - Вкуснейшее рубленое куриное филе в хрустящей панировке, сыр 'Чеддер', ароматный бекон, ломтик помидора, свежий салат, специальный дижонский соус и, конечно, та самая булочка с кунжутом.",
+        "imgMin":"db/img-mini/burgers/ChikenPremer.png",
+        "imgCart":"db/img-card/burgers/ChikenPremer.png",
+        "price":139
+      },
+      {
+        "id":"202031",
+        "category":["rolls"],
+        "title":"Роллы 'Филадельфия' - лосось слабосоленый, огурец, творожный сыр",
+        "imgMin":"db/img-mini/rolls/roll-Philadelphia.jpg",
+        "imgCart":"db/img-card/rolls/roll-Philadelphia.jpg",
+        "price":340
+      },
+      {
+        "id":"202032",
+        "category":["rolls"],
+        "title":"Роллы 'Цезарь' - куриное филе, салат айсберг, помидоры, соус 'Цезарь', сыр, кунжут",
+        "imgMin":"db/img-mini/rolls/roll-Caesar.jpg",
+        "imgCart":"db/img-card/rolls/roll-Caesar.jpg",
+        "price":230
+      },
+      {
+        "id":"202033",
+        "category":["rolls"],
+        "title":"Роллы 'Калифорния' - тигровые креветки, авокадо, икра летучей рыбы, огурец, майонез.",
+        "imgMin":"db/img-mini/rolls/roll-California.jpg",
+        "imgCart":"db/img-card/rolls/roll-California.jpg",
+        "price":320
+      },
+      {
+        "id":"202034",
+        "category":["rolls"],
+        "title":"Роллы 'Бонито темпура' - теплые копченый угорь, огурец, творожный сыр.",
+        "imgMin":"db/img-mini/rolls/roll-Bonito.jpg",
+        "imgCart":"db/img-card/rolls/roll-Bonito.jpg",
+        "price":380
+      },
+      {
+        "id":"202035",
+        "category":["rolls"],
+        "title":"Роллы Канада Лайт рис, нори, авокадо, огурцы свежие, кунжут, сыр творожный, копченый угорь",
+        "imgMin":"db/img-mini/rolls/roll-Canada.jpg",
+        "imgCart":"db/img-card/rolls/roll-Canada.jpg",
+        "price":340
+      },
+      {
+        "id":"202036",
+        "category":["rolls"],
+        "title":"Роллы 'Токио' - нори, сёмга слабосолёная жаренная, рис, тобика зелёная, сыр творожный, лук зелёный",
+        "imgMin":"db/img-mini/rolls/roll-Tokyo.jpg",
+        "imgCart":"db/img-card/rolls/roll-Tokyo.jpg",
+        "price":340
+      },
+      {
+        "id":"202037",
+        "category":["rolls"],
+        "title":"Роллы 'Сяке Маки' - лосось слабосоленый, творожный сыр.",
+        "imgMin":"db/img-mini/rolls/roll-SyakeMaki.jpg",
+        "imgCart":"db/img-card/rolls/roll-SyakeMaki.jpg",
+        "price":180
+      },
+      {
+        "id":"202041",
+        "category":["salads"],
+        "title":"Салат 'Цезарь' с курицей куриное филе, салат Айсберг, соус «Цезарь», сыр Пармезан, сухарики, томаты черри",
+        "imgMin":"db/img-mini/salads/sal-CaesarChicken.jpg",
+        "imgCart":"db/img-card/salads/sal-CaesarChicken.jpg",
+        "price":180
+      },
+      {
+        "id":"202042",
+        "category":["salads"],
+        "title":"Салат 'Цезарь' с креветками тигровые креветки, салат 'Айсберг', соус «Цезарь», сыр 'Пармезан', сухарики, томаты черри.",
+        "imgMin":"db/img-mini/salads/sal-CaesarPrawns.jpg",
+        "imgCart":"db/img-card/salads/sal-CaesarPrawns.jpg",
+        "price":320
+        },
+        {
+          "id":"202043",
+          "category":["salads"],
+          "title":"Салат 'Греческий' помидоры, огурец свежий, салат 'Айсберг', маслины, перец болгарский, сыр Брынза, лук, заправка греческая",
+          "imgMin":"db/img-mini/salads/sal-Greek.jpg",
+          "imgCart":"db/img-card/salads/sal-Greek.jpg",
+          "price":140
+        },
+        {
+          "id":"202044",
+          "category":["salads"],
+          "title":"Салат 'Прованс' ветчина,говядина отварная, куриное филе, огурец свежий, икра красная, яйцо перепелиное, майонез, горчица, паприка сладкая, крем бальзамик",
+          "imgMin":"db/img-mini/salads/sal-Provence.jpg",
+          "imgCart":"db/img-card/salads/sal-Provence.jpg",
+          "price":160
+        },
+        {
+          "id":"202045",
+          "category":["salads"],
+          "title":"Салат 'Деревенский' отварная говядина, солёные огурцы, яйцо, обжаренный картофель, репчатый лук, майонез.",
+          "imgMin":"db/img-mini/salads/sal-Village.jpg",
+          "imgCart":"db/img-card/salads/sal-Village.jpg",
+          "price":170
+        },
+        {
+          "id":"202046",
+          "category":["salads"],
+          "title":"Салат 'Аллегро' куриное филе, бекон, перепелиное яйцо, томаты черри, свежий огурец, зелёный лук, майонез.",
+          "imgMin":"db/img-mini/salads/sal-Allegro.jpg",
+          "imgCart":"db/img-card/salads/sal-Allegro.jpg",
+          "price":190
+        },
+        {
+          "id":"202047",
+          "category":["salads"],
+          "title":"Салат-коктейль с сыром и ветчиной - ветчина, сыр, свежий огурец, яйцо, майонез",
+          "imgMin":"db/img-mini/salads/sal-cocktail.jpg",
+          "imgCart":"db/img-card/salads/sal-cocktail.jpg",
+          "price":120
+        },
+        {
+          "id":"202048",
+          "category":["salads"],
+          "title":"Салат с тунцом и свежими овощами - перец блгарский, фасоль зеленая, черри свежие, айсберг, яйцо перепелиное, тунец консервированный, маслины, соус на основе оливкового масла.",
+          "imgMin":"db/img-mini/salads/sal-tuna.jpg",
+          "imgCart":"db/img-card/salads/sal-tuna.jpg",
+          "price":190
+        },
+        {
+          "id":"202051",
+          "category":["drinks"],
+          "title":"Пепси 1л Безалкогольный газированный напиток Pepsi",
+          "imgMin":"db/img-mini/drinks/pepsi.jpg",
+          "imgCart":"db/img-card/drinks/pepsi.jpg",
+          "price":90
+        },
+        {
+          "id":"202052",
+          "category":["drinks"],
+          "title":"7 UP 1л Безалкогольный газированный напиток со вкусом лимона и лайма",
+          "imgMin":"db/img-mini/drinks/7up.jpg",
+          "imgCart":"db/img-card/drinks/7up.jpg",
+          "price":90
+        },
+        {
+          "id":"202053",
+          "category":["drinks"],
+          "title":"Миринда 1л Безалкогольный сильногазированный напиток со вкусом апельсина",
+          "imgMin":"db/img-mini/drinks/mirinda.jpg",
+          "imgCart":"db/img-card/drinks/mirinda.jpg",
+          "price":90
+        },
+        {
+          "id":"202054",
+          "category":["drinks"],
+          "title":"Сок 'Апельсин' 1л",
+          "imgMin":"db/img-mini/drinks/orange.jpg",
+          "imgCart":"db/img-card/drinks/orange.jpg",
+          "price":120
+        },
+        {
+          "id":"202055",
+          "category":["drinks"],
+          "title":"Сок 'Яблоко' 1л",
+          "imgMin":"db/img-mini/drinks/apple.jpg",
+          "imgCart":"db/img-card/drinks/apple.jpg",
+          "price":120
+        },
+        {
+          "id":"202056",
+          "category":["drinks"],
+          "title":"Сок 'Яблоко-Вишня-Черноплодная рябина' 1л",
+          "imgMin":"db/img-mini/drinks/cherry.jpg",
+          "imgCart":"db/img-card/drinks/cherry.jpg",
+          "price":120
+        },
+        {
+          "id":"202057",
+          "category":["drinks"],
+          "title":"АкваМинерале 1л - Мягкая газированная вода",
+          "imgMin":"db/img-mini/drinks/carbon.jpg",
+          "imgCart":"db/img-card/drinks/carbon.jpg",
+          "price":70
+        },
+        {
+          "id":"202058",
+          "category":["drinks"],
+          "title":"АкваМинерале 1л - Мягкая негазированная вода",
+          "imgMin":"db/img-mini/drinks/nocarbon.jpg",
+          "imgCart":"db/img-card/drinks/nocarbon.jpg",
+          "price":70
+        }
+      ]
